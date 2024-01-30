@@ -70,3 +70,6 @@ terraform -v
 ## Security
 
 We will be experimenting with a lot of services today, so for simplicity's sake, use whichever account you feel most comfortable with. Root does have it's security issues if used in production. You may incur costs if you leave services running.
+
+
+891376935951
